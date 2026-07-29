@@ -1,0 +1,9 @@
+{
+  "name": "Monas Augen – Kunstbegleiter",
+  "short_name": "Monas Augen",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#efe9df",
+  "theme_color": "#efe9df",
+  "icons": []
+}
