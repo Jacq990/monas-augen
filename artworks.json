@@ -6,7 +6,7 @@
     "artist": "Sandro Botticelli",
     "title": "Venus und die drei Grazien überreichen einem jungen Mädchen Geschenke",
     "motto": "Lerne zu empfangen",
-    "image": "assets/01.jpg"
+    "image": "01.jpg"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "artist": "Leonardo da Vinci",
     "title": "Mona Lisa",
     "motto": "Lächle das Leben an",
-    "image": "assets/02.jpg"
+    "image": "02.jpg"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "artist": "Raffael",
     "title": "Madonna, Christus und Johannes",
     "motto": "Übe dich in Gelassenheit",
-    "image": "assets/03.jpg"
+    "image": "03.jpg"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "artist": "Tizian",
     "title": "Das ländliche Konzert",
     "motto": "Vertraue deiner Fantasie",
-    "image": "assets/04.jpg"
+    "image": "04.jpg"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "artist": "Michelangelo",
     "title": "Der sterbende Sklave",
     "motto": "Befreie dich von der Materie",
-    "image": "assets/05.jpg"
+    "image": "05.jpg"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "artist": "Frans Hals",
     "title": "Junge Frau",
     "motto": "Respektiere die kleinen Leute",
-    "image": "assets/06.jpg"
+    "image": "06.jpg"
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "artist": "Rembrandt",
     "title": "Selbstbildnis vor der Staffelei",
     "motto": "Erkenne dich selbst",
-    "image": "assets/07.jpg"
+    "image": "07.jpg"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "artist": "Jan Vermeer",
     "title": "Der Astronom",
     "motto": "Das unendlich Kleine ist unendlich groß",
-    "image": "assets/08.jpg"
+    "image": "08.jpg"
   },
   {
     "id": 9,
@@ -78,7 +78,7 @@
     "artist": "Nicolas Poussin",
     "title": "Die Hirten von Arkadien",
     "motto": "Nichts soll dich zittern lassen",
-    "image": "assets/09.jpg"
+    "image": "09.jpg"
   },
   {
     "id": 10,
@@ -87,7 +87,7 @@
     "artist": "Philippe de Champaigne",
     "title": "Ex voto",
     "motto": "Glaube stets an Wunder",
-    "image": "assets/10.jpg"
+    "image": "10.jpg"
   },
   {
     "id": 11,
@@ -96,7 +96,7 @@
     "artist": "Antoine Watteau",
     "title": "Pierrot",
     "motto": "Jedem Fest haftet ein Scheitern an",
-    "image": "assets/11.jpg"
+    "image": "11.jpg"
   },
   {
     "id": 12,
@@ -105,7 +105,7 @@
     "artist": "Antonio Canaletto",
     "title": "Der Molo vom Bacino di San Marco aus gesehen",
     "motto": "Bringe die Welt zum Stillstand",
-    "image": "assets/12.jpg"
+    "image": "12.jpg"
   },
   {
     "id": 13,
@@ -114,7 +114,7 @@
     "artist": "Thomas Gainsborough",
     "title": "Konversation in einem Park",
     "motto": "Lass die Gefühle sprechen",
-    "image": "assets/13.jpg"
+    "image": "13.jpg"
   },
   {
     "id": 14,
@@ -123,7 +123,7 @@
     "artist": "Marguerite Gérard",
     "title": "Die interessante Schülerin",
     "motto": "Es gibt kein schwaches Geschlecht",
-    "image": "assets/14.jpg"
+    "image": "14.jpg"
   },
   {
     "id": 15,
@@ -132,7 +132,7 @@
     "artist": "Jacques-Louis David",
     "title": "Der Schwur der Horatier",
     "motto": "Die Antike soll dir Zukunft sein",
-    "image": "assets/15.jpg"
+    "image": "15.jpg"
   },
   {
     "id": 16,
@@ -141,7 +141,7 @@
     "artist": "Marie-Guillemine Benoist",
     "title": "Porträt von Madeleine",
     "motto": "Gegen die Rassentrennung",
-    "image": "assets/16.jpg"
+    "image": "16.jpg"
   },
   {
     "id": 17,
@@ -150,7 +150,7 @@
     "artist": "Francisco de Goya",
     "title": "Stillleben mit Schafskopf und Rippenstücken",
     "motto": "Überall verstecken sich Monster",
-    "image": "assets/17.jpg"
+    "image": "17.jpg"
   },
   {
     "id": 18,
@@ -159,7 +159,7 @@
     "artist": "Caspar David Friedrich",
     "title": "Der Baum der Krähen",
     "motto": "Schließe dein leibliches Auge",
-    "image": "assets/18.jpg"
+    "image": "18.jpg"
   },
   {
     "id": 19,
@@ -168,7 +168,7 @@
     "artist": "William Turner",
     "title": "Landschaft mit Fluss und Bucht in der Ferne",
     "motto": "Alles ist nur Staub",
-    "image": "assets/19.jpg"
+    "image": "19.jpg"
   },
   {
     "id": 20,
@@ -177,7 +177,7 @@
     "artist": "Gustave Courbet",
     "title": "Ein Begräbnis in Ornans",
     "motto": "Schreie laut und gehe aufrecht",
-    "image": "assets/20.jpg"
+    "image": "20.jpg"
   },
   {
     "id": 21,
@@ -186,7 +186,7 @@
     "artist": "Henri Fantin-Latour",
     "title": "Hommage an Delacroix",
     "motto": "Die Toten sind unter den Lebenden",
-    "image": "assets/21.jpg"
+    "image": "21.jpg"
   },
   {
     "id": 22,
@@ -195,7 +195,7 @@
     "artist": "Rosa Bonheur",
     "title": "Pflügen im Nivernais",
     "motto": "Das Tier ist dir ebenbürtig",
-    "image": "assets/22.jpg"
+    "image": "22.jpg"
   },
   {
     "id": 23,
@@ -204,7 +204,7 @@
     "artist": "James Whistler",
     "title": "Arrangement in Grau und Schwarz Nr. 1",
     "motto": "Nichts auf der Welt ist heiliger als eine Mutter",
-    "image": "assets/23.jpg"
+    "image": "23.jpg"
   },
   {
     "id": 24,
@@ -213,7 +213,7 @@
     "artist": "Julia Margaret Cameron",
     "title": "Mrs Herbert Duckworth",
     "motto": "In der Unschärfe gedeiht das Leben",
-    "image": "assets/24.jpg"
+    "image": "24.jpg"
   },
   {
     "id": 25,
@@ -222,7 +222,7 @@
     "artist": "Édouard Manet",
     "title": "Der Spargel",
     "motto": "Less is more",
-    "image": "assets/25.jpg"
+    "image": "25.jpg"
   },
   {
     "id": 26,
@@ -231,7 +231,7 @@
     "artist": "Claude Monet",
     "title": "Der Bahnhof Saint-Lazare",
     "motto": "Alles fließt und vergeht",
-    "image": "assets/26.jpg"
+    "image": "26.jpg"
   },
   {
     "id": 27,
@@ -240,7 +240,7 @@
     "artist": "Edgar Degas",
     "title": "L’Étoile oder Tänzerin auf der Bühne",
     "motto": "Du sollst das Leben tanzen",
-    "image": "assets/27.jpg"
+    "image": "27.jpg"
   },
   {
     "id": 28,
@@ -249,7 +249,7 @@
     "artist": "Paul Cézanne",
     "title": "Die Montagne Sainte-Victoire",
     "motto": "Komm, kämpfe, hinterlasse deinen Namen und steh es durch",
-    "image": "assets/28.jpg"
+    "image": "28.jpg"
   },
   {
     "id": 29,
@@ -258,7 +258,7 @@
     "artist": "Edward Burne-Jones",
     "title": "Das Rad der Fortuna",
     "motto": "Ehre die Melancholie",
-    "image": "assets/29.jpg"
+    "image": "29.jpg"
   },
   {
     "id": 30,
@@ -267,7 +267,7 @@
     "artist": "Vincent van Gogh",
     "title": "Die Kirche von Auvers",
     "motto": "Halte den Taumel fest",
-    "image": "assets/30.jpg"
+    "image": "30.jpg"
   },
   {
     "id": 31,
@@ -276,7 +276,7 @@
     "artist": "Camille Claudel",
     "title": "Das reife Alter",
     "motto": "Liebe ist Begehren, und Begehren ist Mangel",
-    "image": "assets/31.jpg"
+    "image": "31.jpg"
   },
   {
     "id": 32,
@@ -285,7 +285,7 @@
     "artist": "Gustav Klimt",
     "title": "Rosen unter Bäumen",
     "motto": "Es lebe der Todestrieb",
-    "image": "assets/32.jpg"
+    "image": "32.jpg"
   },
   {
     "id": 33,
@@ -294,7 +294,7 @@
     "artist": "Vilhelm Hammershøi",
     "title": "Ruhepause",
     "motto": "Lass dein Inneres sprechen",
-    "image": "assets/33.jpg"
+    "image": "33.jpg"
   },
   {
     "id": 34,
@@ -303,7 +303,7 @@
     "artist": "Piet Mondrian",
     "title": "Heuhaufen III",
     "motto": "Mach es einfach",
-    "image": "assets/34.jpg"
+    "image": "34.jpg"
   },
   {
     "id": 35,
@@ -312,7 +312,7 @@
     "artist": "Wassily Kandinsky",
     "title": "Entwurf für den Umschlag des Almanachs Der Blaue Reiter",
     "motto": "Finde das Geistige in allen Dingen",
-    "image": "assets/35.jpg"
+    "image": "35.jpg"
   },
   {
     "id": 36,
@@ -321,7 +321,7 @@
     "artist": "Marcel Duchamp",
     "title": "Flaschentrockner",
     "motto": "Stifte überall Unordnung",
-    "image": "assets/36.jpg"
+    "image": "36.jpg"
   },
   {
     "id": 37,
@@ -330,7 +330,7 @@
     "artist": "Kasimir Malewitsch",
     "title": "Das schwarze Kreuz",
     "motto": "Verselbstständige dich",
-    "image": "assets/37.jpg"
+    "image": "37.jpg"
   },
   {
     "id": 38,
@@ -339,7 +339,7 @@
     "artist": "Georgia O’Keeffe",
     "title": "Roter, gelber und schwarzer Streifen",
     "motto": "Die Welt ist Fleisch",
-    "image": "assets/38.jpg"
+    "image": "38.jpg"
   },
   {
     "id": 39,
@@ -348,7 +348,7 @@
     "artist": "René Magritte",
     "title": "Das rote Modell",
     "motto": "Höre auf dein Unbewusstes",
-    "image": "assets/39.jpg"
+    "image": "39.jpg"
   },
   {
     "id": 40,
@@ -357,7 +357,7 @@
     "artist": "Constantin Brancusi",
     "title": "Der Vogel im Raum",
     "motto": "Hebe deinen Blick",
-    "image": "assets/40.jpg"
+    "image": "40.jpg"
   },
   {
     "id": 41,
@@ -366,7 +366,7 @@
     "artist": "Hannah Höch",
     "title": "Mutter",
     "motto": "Setze dich immer wieder neu zusammen",
-    "image": "assets/41.jpg"
+    "image": "41.jpg"
   },
   {
     "id": 42,
@@ -375,7 +375,7 @@
     "artist": "Frida Kahlo",
     "title": "Der Rahmen",
     "motto": "Was dich nicht umbringt, macht dich stärker",
-    "image": "assets/42.jpg"
+    "image": "42.jpg"
   },
   {
     "id": 43,
@@ -384,7 +384,7 @@
     "artist": "Pablo Picasso",
     "title": "Das Morgenständchen",
     "motto": "Brich alles entzwei",
-    "image": "assets/43.jpg"
+    "image": "43.jpg"
   },
   {
     "id": 44,
@@ -393,7 +393,7 @@
     "artist": "Jackson Pollock",
     "title": "Silber über Schwarz, Weiß, Gelb und Rot",
     "motto": "Verfalle in Trance",
-    "image": "assets/44.jpg"
+    "image": "44.jpg"
   },
   {
     "id": 45,
@@ -402,7 +402,7 @@
     "artist": "Niki de Saint Phalle",
     "title": "Die Braut",
     "motto": "Die Frau ist die Zukunft des Mannes",
-    "image": "assets/45.jpg"
+    "image": "45.jpg"
   },
   {
     "id": 46,
@@ -411,7 +411,7 @@
     "artist": "Hans Hartung",
     "title": "T 1964-H45",
     "motto": "Sei schnell wie der Blitz",
-    "image": "assets/46.jpg"
+    "image": "46.jpg"
   },
   {
     "id": 47,
@@ -420,7 +420,7 @@
     "artist": "Anna-Eva Bergman",
     "title": "Nr. 26-1976 Schwarzer Bug",
     "motto": "Fange immer wieder bei null an",
-    "image": "assets/47.jpg"
+    "image": "47.jpg"
   },
   {
     "id": 48,
@@ -429,7 +429,7 @@
     "artist": "Jean-Michel Basquiat",
     "title": "Ohne Titel",
     "motto": "Tritt aus dem Schatten",
-    "image": "assets/48.jpg"
+    "image": "48.jpg"
   },
   {
     "id": 49,
@@ -438,7 +438,7 @@
     "artist": "Louise Bourgeois",
     "title": "Precious Liquids",
     "motto": "Lerne, Nein zu sagen",
-    "image": "assets/49.jpg"
+    "image": "49.jpg"
   },
   {
     "id": 50,
@@ -447,7 +447,7 @@
     "artist": "Marina Abramović",
     "title": "Sein Boot leeren, in die Strömung treten",
     "motto": "Ergreife die Chance einer Trennung",
-    "image": "assets/50.jpg"
+    "image": "50.jpg"
   },
   {
     "id": 51,
@@ -456,7 +456,7 @@
     "artist": "Christian Boltanski",
     "title": "Das unmögliche Leben des C. B.",
     "motto": "Stelle dein Leben zusammen",
-    "image": "assets/51.jpg"
+    "image": "51.jpg"
   },
   {
     "id": 52,
@@ -465,6 +465,6 @@
     "artist": "Pierre Soulages",
     "title": "Gemälde 200 × 220 cm, 22. April 2002",
     "motto": "Schwarz ist eine Farbe",
-    "image": "assets/52.jpg"
+    "image": "52.jpg"
   }
 ]
