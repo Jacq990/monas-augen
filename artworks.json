@@ -4,9 +4,8 @@
     "museum": "Louvre",
     "page": 31,
     "artist": "Sandro Botticelli",
-    "title": "Venus und die drei Grazien überreichen einem jungen Mädchen Geschenke",
-    "motto": "Lerne zu empfangen",
-    "image": "assets/01.jpg"
+    "title": "Venus und die drei Grazien überreichen einer jungen Frau Geschenke",
+    "motto": "Lerne zu empfangen"
   },
   {
     "id": 2,
@@ -14,17 +13,15 @@
     "page": 39,
     "artist": "Leonardo da Vinci",
     "title": "Mona Lisa",
-    "motto": "Lächle das Leben an",
-    "image": "assets/02.jpg"
+    "motto": "Lächle das Leben an"
   },
   {
     "id": 3,
     "museum": "Louvre",
     "page": 47,
     "artist": "Raffael",
-    "title": "Madonna, Christus und Johannes",
-    "motto": "Übe dich in Gelassenheit",
-    "image": "assets/03.jpg"
+    "title": "La Belle Jardinière",
+    "motto": "Übe dich in Gelassenheit"
   },
   {
     "id": 4,
@@ -32,8 +29,7 @@
     "page": 55,
     "artist": "Tizian",
     "title": "Das ländliche Konzert",
-    "motto": "Vertraue deiner Fantasie",
-    "image": "assets/04.jpg"
+    "motto": "Vertraue deiner Fantasie"
   },
   {
     "id": 5,
@@ -41,26 +37,23 @@
     "page": 63,
     "artist": "Michelangelo",
     "title": "Der sterbende Sklave",
-    "motto": "Befreie dich von der Materie",
-    "image": "assets/05.jpg"
+    "motto": "Befreie dich von der Materie"
   },
   {
     "id": 6,
     "museum": "Louvre",
     "page": 71,
     "artist": "Frans Hals",
-    "title": "Junge Frau",
-    "motto": "Respektiere die kleinen Leute",
-    "image": "assets/06.jpg"
+    "title": "Die Zigeunerin",
+    "motto": "Respektiere die kleinen Leute"
   },
   {
     "id": 7,
     "museum": "Louvre",
     "page": 81,
     "artist": "Rembrandt",
-    "title": "Selbstbildnis vor der Staffelei",
-    "motto": "Erkenne dich selbst",
-    "image": "assets/07.jpg"
+    "title": "Selbstbildnis an der Staffelei",
+    "motto": "Erkenne dich selbst"
   },
   {
     "id": 8,
@@ -68,8 +61,7 @@
     "page": 91,
     "artist": "Jan Vermeer",
     "title": "Der Astronom",
-    "motto": "Das unendlich Kleine ist unendlich groß",
-    "image": "assets/08.jpg"
+    "motto": "Das unendlich Kleine ist unendlich groß"
   },
   {
     "id": 9,
@@ -77,17 +69,15 @@
     "page": 99,
     "artist": "Nicolas Poussin",
     "title": "Die Hirten von Arkadien",
-    "motto": "Nichts soll dich zittern lassen",
-    "image": "assets/09.jpg"
+    "motto": "Nichts soll dich zittern lassen"
   },
   {
     "id": 10,
     "museum": "Louvre",
     "page": 107,
     "artist": "Philippe de Champaigne",
-    "title": "Ex voto",
-    "motto": "Glaube stets an Wunder",
-    "image": "assets/10.jpg"
+    "title": "Ex-voto von 1662",
+    "motto": "Glaube stets an Wunder"
   },
   {
     "id": 11,
@@ -95,8 +85,7 @@
     "page": 115,
     "artist": "Antoine Watteau",
     "title": "Pierrot",
-    "motto": "Jedem Fest haftet ein Scheitern an",
-    "image": "assets/11.jpg"
+    "motto": "Jedem Fest haftet ein Scheitern an"
   },
   {
     "id": 12,
@@ -104,17 +93,15 @@
     "page": 125,
     "artist": "Antonio Canaletto",
     "title": "Der Molo vom Bacino di San Marco aus gesehen",
-    "motto": "Bringe die Welt zum Stillstand",
-    "image": "assets/12.jpg"
+    "motto": "Bringe die Welt zum Stillstand"
   },
   {
     "id": 13,
     "museum": "Louvre",
     "page": 135,
     "artist": "Thomas Gainsborough",
-    "title": "Konversation in einem Park",
-    "motto": "Lass die Gefühle sprechen",
-    "image": "assets/13.jpg"
+    "title": "Unterhaltung in einem Park",
+    "motto": "Lass die Gefühle sprechen"
   },
   {
     "id": 14,
@@ -122,8 +109,7 @@
     "page": 143,
     "artist": "Marguerite Gérard",
     "title": "Die interessante Schülerin",
-    "motto": "Es gibt kein schwaches Geschlecht",
-    "image": "assets/14.jpg"
+    "motto": "Es gibt kein schwaches Geschlecht"
   },
   {
     "id": 15,
@@ -131,26 +117,23 @@
     "page": 151,
     "artist": "Jacques-Louis David",
     "title": "Der Schwur der Horatier",
-    "motto": "Die Antike soll dir Zukunft sein",
-    "image": "assets/15.jpg"
+    "motto": "Die Antike soll dir Zukunft sein"
   },
   {
     "id": 16,
     "museum": "Louvre",
     "page": 161,
     "artist": "Marie-Guillemine Benoist",
-    "title": "Porträt von Madeleine",
-    "motto": "Gegen die Rassentrennung",
-    "image": "assets/16.jpg"
+    "title": "Porträt der Madeleine",
+    "motto": "Gegen die Rassentrennung"
   },
   {
     "id": 17,
     "museum": "Louvre",
     "page": 169,
     "artist": "Francisco de Goya",
-    "title": "Stillleben mit Schafskopf und Rippenstücken",
-    "motto": "Überall verstecken sich Monster",
-    "image": "assets/17.jpg"
+    "title": "Stillleben mit Schafskopf",
+    "motto": "Überall verstecken sich Monster"
   },
   {
     "id": 18,
@@ -158,8 +141,7 @@
     "page": 177,
     "artist": "Caspar David Friedrich",
     "title": "Der Baum der Krähen",
-    "motto": "Schließe dein leibliches Auge",
-    "image": "assets/18.jpg"
+    "motto": "Schließe dein leibliches Auge"
   },
   {
     "id": 19,
@@ -167,8 +149,7 @@
     "page": 185,
     "artist": "William Turner",
     "title": "Landschaft mit Fluss und Bucht in der Ferne",
-    "motto": "Alles ist nur Staub",
-    "image": "assets/19.jpg"
+    "motto": "Alles ist nur Staub"
   },
   {
     "id": 20,
@@ -176,8 +157,7 @@
     "page": 195,
     "artist": "Gustave Courbet",
     "title": "Ein Begräbnis in Ornans",
-    "motto": "Schreie laut und gehe aufrecht",
-    "image": "assets/20.jpg"
+    "motto": "Schreie laut und gehe aufrecht"
   },
   {
     "id": 21,
@@ -185,8 +165,7 @@
     "page": 205,
     "artist": "Henri Fantin-Latour",
     "title": "Hommage an Delacroix",
-    "motto": "Die Toten sind unter den Lebenden",
-    "image": "assets/21.jpg"
+    "motto": "Die Toten sind unter den Lebenden"
   },
   {
     "id": 22,
@@ -194,8 +173,7 @@
     "page": 215,
     "artist": "Rosa Bonheur",
     "title": "Pflügen im Nivernais",
-    "motto": "Das Tier ist dir ebenbürtig",
-    "image": "assets/22.jpg"
+    "motto": "Das Tier ist dir ebenbürtig"
   },
   {
     "id": 23,
@@ -203,8 +181,7 @@
     "page": 223,
     "artist": "James Whistler",
     "title": "Arrangement in Grau und Schwarz Nr. 1",
-    "motto": "Nichts auf der Welt ist heiliger als eine Mutter",
-    "image": "assets/23.jpg"
+    "motto": "Nichts auf der Welt ist heiliger als eine Mutter"
   },
   {
     "id": 24,
@@ -212,8 +189,7 @@
     "page": 231,
     "artist": "Julia Margaret Cameron",
     "title": "Mrs Herbert Duckworth",
-    "motto": "In der Unschärfe gedeiht das Leben",
-    "image": "assets/24.jpg"
+    "motto": "In der Unschärfe gedeiht das Leben"
   },
   {
     "id": 25,
@@ -221,8 +197,7 @@
     "page": 239,
     "artist": "Édouard Manet",
     "title": "Der Spargel",
-    "motto": "Less is more",
-    "image": "assets/25.jpg"
+    "motto": "Less is more"
   },
   {
     "id": 26,
@@ -230,26 +205,23 @@
     "page": 247,
     "artist": "Claude Monet",
     "title": "Der Bahnhof Saint-Lazare",
-    "motto": "Alles fließt und vergeht",
-    "image": "assets/26.jpg"
+    "motto": "Alles fließt und vergeht"
   },
   {
     "id": 27,
     "museum": "Musée d’Orsay",
     "page": 257,
     "artist": "Edgar Degas",
-    "title": "L’Étoile oder Tänzerin auf der Bühne",
-    "motto": "Du sollst das Leben tanzen",
-    "image": "assets/27.jpg"
+    "title": "L’Étoile",
+    "motto": "Du sollst das Leben tanzen"
   },
   {
     "id": 28,
     "museum": "Musée d’Orsay",
     "page": 267,
     "artist": "Paul Cézanne",
-    "title": "Die Montagne Sainte-Victoire",
-    "motto": "Komm, kämpfe, hinterlasse deinen Namen und steh es durch",
-    "image": "assets/28.jpg"
+    "title": "Montagne Sainte-Victoire",
+    "motto": "Komm, kämpfe, hinterlasse deinen Namen und steh es durch"
   },
   {
     "id": 29,
@@ -257,17 +229,15 @@
     "page": 277,
     "artist": "Edward Burne-Jones",
     "title": "Das Rad der Fortuna",
-    "motto": "Ehre die Melancholie",
-    "image": "assets/29.jpg"
+    "motto": "Ehre die Melancholie"
   },
   {
     "id": 30,
     "museum": "Musée d’Orsay",
     "page": 285,
     "artist": "Vincent van Gogh",
-    "title": "Die Kirche von Auvers",
-    "motto": "Halte den Taumel fest",
-    "image": "assets/30.jpg"
+    "title": "Die Kirche von Auvers-sur-Oise",
+    "motto": "Halte den Taumel fest"
   },
   {
     "id": 31,
@@ -275,44 +245,39 @@
     "page": 295,
     "artist": "Camille Claudel",
     "title": "Das reife Alter",
-    "motto": "Liebe ist Begehren, und Begehren ist Mangel",
-    "image": "assets/31.jpg"
+    "motto": "Liebe ist Begehren, und Begehren ist Mangel"
   },
   {
     "id": 32,
     "museum": "Musée d’Orsay",
     "page": 305,
     "artist": "Gustav Klimt",
-    "title": "Rosen unter Bäumen",
-    "motto": "Es lebe der Todestrieb",
-    "image": "assets/32.jpg"
+    "title": "Rosenbüsche unter Bäumen",
+    "motto": "Es lebe der Todestrieb"
   },
   {
     "id": 33,
     "museum": "Musée d’Orsay",
     "page": 315,
     "artist": "Vilhelm Hammershøi",
-    "title": "Ruhepause",
-    "motto": "Lass dein Inneres sprechen",
-    "image": "assets/33.jpg"
+    "title": "Ruhe",
+    "motto": "Lass dein Inneres sprechen"
   },
   {
     "id": 34,
     "museum": "Musée d’Orsay",
     "page": 325,
     "artist": "Piet Mondrian",
-    "title": "Heuhaufen III",
-    "motto": "Mach es einfach",
-    "image": "assets/34.jpg"
+    "title": "Heuschober III",
+    "motto": "Mach es einfach"
   },
   {
     "id": 35,
     "museum": "Centre Pompidou",
     "page": 335,
     "artist": "Wassily Kandinsky",
-    "title": "Entwurf für den Umschlag des Almanachs Der Blaue Reiter",
-    "motto": "Finde das Geistige in allen Dingen",
-    "image": "assets/35.jpg"
+    "title": "Studie für Der Blaue Reiter",
+    "motto": "Finde das Geistige in allen Dingen"
   },
   {
     "id": 36,
@@ -320,26 +285,23 @@
     "page": 343,
     "artist": "Marcel Duchamp",
     "title": "Flaschentrockner",
-    "motto": "Stifte überall Unordnung",
-    "image": "assets/36.jpg"
+    "motto": "Stifte überall Unordnung"
   },
   {
     "id": 37,
     "museum": "Centre Pompidou",
     "page": 351,
     "artist": "Kasimir Malewitsch",
-    "title": "Das schwarze Kreuz",
-    "motto": "Verselbstständige dich",
-    "image": "assets/37.jpg"
+    "title": "Schwarzes Kreuz",
+    "motto": "Verselbstständige dich"
   },
   {
     "id": 38,
     "museum": "Centre Pompidou",
     "page": 359,
     "artist": "Georgia O’Keeffe",
-    "title": "Roter, gelber und schwarzer Streifen",
-    "motto": "Die Welt ist Fleisch",
-    "image": "assets/38.jpg"
+    "title": "Red, Yellow and Black Streak",
+    "motto": "Die Welt ist Fleisch"
   },
   {
     "id": 39,
@@ -347,8 +309,7 @@
     "page": 367,
     "artist": "René Magritte",
     "title": "Das rote Modell",
-    "motto": "Höre auf dein Unbewusstes",
-    "image": "assets/39.jpg"
+    "motto": "Höre auf dein Unbewusstes"
   },
   {
     "id": 40,
@@ -356,8 +317,7 @@
     "page": 375,
     "artist": "Constantin Brancusi",
     "title": "Der Vogel im Raum",
-    "motto": "Hebe deinen Blick",
-    "image": "assets/40.jpg"
+    "motto": "Hebe deinen Blick"
   },
   {
     "id": 41,
@@ -365,35 +325,31 @@
     "page": 383,
     "artist": "Hannah Höch",
     "title": "Mutter",
-    "motto": "Setze dich immer wieder neu zusammen",
-    "image": "assets/41.jpg"
+    "motto": "Setze dich immer wieder neu zusammen"
   },
   {
     "id": 42,
     "museum": "Centre Pompidou",
     "page": 391,
     "artist": "Frida Kahlo",
-    "title": "Der Rahmen",
-    "motto": "Was dich nicht umbringt, macht dich stärker",
-    "image": "assets/42.jpg"
+    "title": "The Frame",
+    "motto": "Was dich nicht umbringt, macht dich stärker"
   },
   {
     "id": 43,
     "museum": "Centre Pompidou",
     "page": 399,
     "artist": "Pablo Picasso",
-    "title": "Das Morgenständchen",
-    "motto": "Brich alles entzwei",
-    "image": "assets/43.jpg"
+    "title": "Werkzuordnung wird geprüft",
+    "motto": "Brich alles entzwei"
   },
   {
     "id": 44,
     "museum": "Centre Pompidou",
     "page": 407,
     "artist": "Jackson Pollock",
-    "title": "Silber über Schwarz, Weiß, Gelb und Rot",
-    "motto": "Verfalle in Trance",
-    "image": "assets/44.jpg"
+    "title": "Painting",
+    "motto": "Verfalle in Trance"
   },
   {
     "id": 45,
@@ -401,8 +357,7 @@
     "page": 415,
     "artist": "Niki de Saint Phalle",
     "title": "Die Braut",
-    "motto": "Die Frau ist die Zukunft des Mannes",
-    "image": "assets/45.jpg"
+    "motto": "Die Frau ist die Zukunft des Mannes"
   },
   {
     "id": 46,
@@ -410,17 +365,15 @@
     "page": 423,
     "artist": "Hans Hartung",
     "title": "T 1964-H45",
-    "motto": "Sei schnell wie der Blitz",
-    "image": "assets/46.jpg"
+    "motto": "Sei schnell wie der Blitz"
   },
   {
     "id": 47,
     "museum": "Centre Pompidou",
     "page": 431,
     "artist": "Anna-Eva Bergman",
-    "title": "Nr. 26-1976 Schwarzer Bug",
-    "motto": "Fange immer wieder bei null an",
-    "image": "assets/47.jpg"
+    "title": "Proue noire",
+    "motto": "Fange immer wieder bei null an"
   },
   {
     "id": 48,
@@ -428,8 +381,7 @@
     "page": 441,
     "artist": "Jean-Michel Basquiat",
     "title": "Ohne Titel",
-    "motto": "Tritt aus dem Schatten",
-    "image": "assets/48.jpg"
+    "motto": "Tritt aus dem Schatten"
   },
   {
     "id": 49,
@@ -437,34 +389,30 @@
     "page": 449,
     "artist": "Louise Bourgeois",
     "title": "Precious Liquids",
-    "motto": "Lerne, Nein zu sagen",
-    "image": "assets/49.jpg"
+    "motto": "Lerne, Nein zu sagen"
   },
   {
     "id": 50,
     "museum": "Centre Pompidou",
     "page": 459,
     "artist": "Marina Abramović",
-    "title": "Sein Boot leeren, in die Strömung treten",
-    "motto": "Ergreife die Chance einer Trennung",
-    "image": "assets/50.jpg"
+    "title": "Boat Emptying, Stream Entering",
+    "motto": "Ergreife die Chance einer Trennung"
   },
   {
     "id": 51,
     "museum": "Centre Pompidou",
     "page": 467,
     "artist": "Christian Boltanski",
-    "title": "Das unmögliche Leben des C. B.",
-    "motto": "Stelle dein Leben zusammen",
-    "image": "assets/51.jpg"
+    "title": "Werkzuordnung wird geprüft",
+    "motto": "Stelle dein Leben zusammen"
   },
   {
     "id": 52,
     "museum": "Centre Pompidou",
     "page": 475,
     "artist": "Pierre Soulages",
-    "title": "Gemälde 200 × 220 cm, 22. April 2002",
-    "motto": "Schwarz ist eine Farbe",
-    "image": "assets/52.jpg"
+    "title": "Peinture 200 × 220 cm, 22 avril 2002",
+    "motto": "Schwarz ist eine Farbe"
   }
 ]

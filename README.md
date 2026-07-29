@@ -1,9 +1,28 @@
-# Monas Augen – Finalversion
+# Monas Augen
 
-Diese Version enthält alle 52 Werke aus den fotografierten Übersichtsseiten.
+Mobile Begleit-App zum Buch **„Monas Augen“** von Thomas Schlesser.
 
-## Veröffentlichung auf GitHub Pages
-Alle vorhandenen Dateien im Repository durch den Inhalt dieses Ordners ersetzen.
-Wichtig: Den Ordner `assets` vollständig mit hochladen.
+## Enthalten
 
-Danach kann es wegen Safari-Cache einige Minuten dauern, bis die neue Version sichtbar ist.
+- 52 Kunstwerke
+- Suche und Museumsfilter
+- Favoriten
+- persönliche Notizen
+- automatische Suche nach frei verfügbaren Bildern auf Wikimedia Commons
+- eigenes Bild pro Werk hinterlegen
+- Zoomen, Verschieben und Doppeltippen
+- installierbare Web-App
+
+## GitHub Pages aktivieren
+
+1. In GitHub oben auf **Einstellungen**
+2. Links auf **Seiten**
+3. Unter **Erstellen und Bereitstellen**:
+   - Quelle: **Von einem Branch bereitstellen**
+   - Branch: **main**
+   - Ordner: **/(root)**
+4. Auf **Speichern** klicken
+
+Die Seite erscheint anschließend unter:
+
+`https://jacq990.github.io/monas-augen/`
