@@ -1,18 +1,9 @@
-# Monas Augen – Version 2
+# Monas Augen – Finalversion
 
-Mobile Begleit-App zum Buch **„Monas Augen“** von Thomas Schlesser.
+Diese Version enthält alle 52 Werke aus den fotografierten Übersichtsseiten.
 
-## Neu in Version 2
+## Veröffentlichung auf GitHub Pages
+Alle vorhandenen Dateien im Repository durch den Inhalt dieses Ordners ersetzen.
+Wichtig: Den Ordner `assets` vollständig mit hochladen.
 
-- hochwertigeres mobiles Design
-- automatische Bildsuche über Wikimedia Commons
-- Lesefortschritt
-- Filter „Gelesen“
-- Favoriten
-- persönliche Notizen
-- eigenes Bild pro Werk
-- Pinch-to-Zoom, Verschieben und Doppeltippen
-- Teilen-Funktion
-- Offline-Grundfunktion
-
-GitHub Pages: `https://jacq990.github.io/monas-augen/`
+Danach kann es wegen Safari-Cache einige Minuten dauern, bis die neue Version sichtbar ist.
