@@ -1,28 +1,18 @@
-# Monas Augen
+# Monas Augen – Version 2
 
 Mobile Begleit-App zum Buch **„Monas Augen“** von Thomas Schlesser.
 
-## Enthalten
+## Neu in Version 2
 
-- 52 Kunstwerke
-- Suche und Museumsfilter
+- hochwertigeres mobiles Design
+- automatische Bildsuche über Wikimedia Commons
+- Lesefortschritt
+- Filter „Gelesen“
 - Favoriten
 - persönliche Notizen
-- automatische Suche nach frei verfügbaren Bildern auf Wikimedia Commons
-- eigenes Bild pro Werk hinterlegen
-- Zoomen, Verschieben und Doppeltippen
-- installierbare Web-App
+- eigenes Bild pro Werk
+- Pinch-to-Zoom, Verschieben und Doppeltippen
+- Teilen-Funktion
+- Offline-Grundfunktion
 
-## GitHub Pages aktivieren
-
-1. In GitHub oben auf **Einstellungen**
-2. Links auf **Seiten**
-3. Unter **Erstellen und Bereitstellen**:
-   - Quelle: **Von einem Branch bereitstellen**
-   - Branch: **main**
-   - Ordner: **/(root)**
-4. Auf **Speichern** klicken
-
-Die Seite erscheint anschließend unter:
-
-`https://jacq990.github.io/monas-augen/`
+GitHub Pages: `https://jacq990.github.io/monas-augen/`

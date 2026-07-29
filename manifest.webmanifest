@@ -3,7 +3,7 @@
   "short_name": "Monas Augen",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#efe9df",
-  "theme_color": "#efe9df",
+  "background_color": "#ebe5db",
+  "theme_color": "#ebe5db",
   "icons": []
 }
