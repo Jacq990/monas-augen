@@ -1,0 +1,41 @@
+# Image Credits
+
+The upgraded image files in this project were sourced from Wikimedia Commons file pages. Please refer to the linked Commons pages for the current license and public-domain information.
+
+- `01.jpg` - https://commons.wikimedia.org/wiki/File:V%C3%A9nus_et_les_trois_Gr%C3%A2ces_offrant_des_pr%C3%A9sents_%C3%A0_une_jeune_fille_-_Sandro_Botticelli_-_Mus%C3%A9e_du_Louvre_Peintures_RF_321.jpg
+- `02.jpg` - https://commons.wikimedia.org/wiki/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg
+- `03.jpg` - https://commons.wikimedia.org/wiki/File:La_Vierge_%C3%A0_l'Enfant_avec_le_petit_saint_Jean_Baptiste_-_Rapha%C3%ABl_-_Mus%C3%A9e_du_Louvre_Peintures_INV_602_;_MR_433.jpg
+- `04.jpg` - https://commons.wikimedia.org/wiki/File:Le_Concert_champ%C3%AAtre,_by_Titian,_from_C2RMF_retouchedFXD.jpg
+- `05.jpg` - https://commons.wikimedia.org/wiki/File:Michelangelo's_Dying_Slave,_1513-1515,_04.JPG
+- `06.jpg` - https://commons.wikimedia.org/wiki/File:Junge_Frau_(La_Boh%C3%A9mienne)-WUS03325.jpg
+- `07.jpg` - https://commons.wikimedia.org/wiki/File:Self_portrait_at_the_easel,_Rembrandt_van_Rijn,_1660,_Louvre,_Paris.jpg
+- `08.jpg` - https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_The_Astronomer_-_1668.jpg
+- `09.jpg` - https://commons.wikimedia.org/wiki/File:Les_Bergers_d'Arcadie_-_Nicolas_Poussin_-_Mus%C3%A9e_du_Louvre_Peintures_INV_7300_;_MR_2339.jpg
+- `11.jpg` - https://commons.wikimedia.org/wiki/File:Jean-antoine_watteau,_pierrot,_detto_anche_gilles,_1718-1719_ca._01.jpg
+- `12.jpg` - https://commons.wikimedia.org/wiki/File:Canaletto,_il_molo_visto_dal_bacino_di_san_marco,_1730_ca._04.JPG
+- `13.jpg` - https://commons.wikimedia.org/wiki/File:Thomas_Gainsborough_-_Conversation_in_a_Park_(1746).jpg
+- `14.jpg` - https://commons.wikimedia.org/wiki/File:Fragonard_et_G%C3%A9rard_-_L'%C3%A9l%C3%A8ve_int%C3%A9ressante.jpg
+- `15.jpg` - https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_Oath_of_the_Horatii_-_Google_Art_Project.jpg
+- `16.jpg` - https://commons.wikimedia.org/wiki/File:Portrait_d'une_femme_noire_-_Marie-Guillemine_Benoist_Mus%C3%A9e_du_Louvre_Peintures_INV_2508.jpg
+- `17.jpg` - https://commons.wikimedia.org/wiki/File:Bodeg%C3%B3n_con_costillas_y_cabeza_de_cordero_por_Francisco_de_Goya.jpg
+- `18.jpg` - https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_The_Tree_of_Crows.jpg
+- `19.jpg` - https://commons.wikimedia.org/wiki/File:Joseph_Mallord_William_Turner_-_Landscape_with_a_River_and_a_Bay_in_the_Background_-_WGA23174.jpg
+- `20.jpg` - https://commons.wikimedia.org/wiki/File:Courbet_-_Burial_at_Ornans.jpg
+- `21.jpg` - https://commons.wikimedia.org/wiki/File:Hommage_%C3%A0_Delacroix_-_Henri_Fantin-Latour.jpg
+- `22.jpg` - https://commons.wikimedia.org/wiki/File:Rosa_Bonheur_-_Ploughing_in_Nevers_-_Google_Art_Project.jpg
+- `23.jpg` - https://commons.wikimedia.org/wiki/File:James_whistler,_arrangiamento_in_grigio_e_nero_1_(la_madre_dell'artista),_1871,_02.JPG
+- `24.jpg` - https://commons.wikimedia.org/wiki/File:Mrs_Herbert_Duckworth_(SM_stf77).png
+- `25.jpg` - https://commons.wikimedia.org/wiki/File:Edouard_Manet_-_Asparagus_-_Google_Art_Project.jpg
+- `26.jpg` - https://commons.wikimedia.org/wiki/File:La_Gare_Saint-Lazare_-_Claude_Monet.jpg
+- `27.jpg` - https://commons.wikimedia.org/wiki/File:Edgar_Degas_-_Ballet_(L'%C3%89toile).jpg
+- `28.jpg` - https://commons.wikimedia.org/wiki/File:Montagne_Sainte-Victoire_-_Paul_C%C3%A9zanne.jpg
+- `29.jpg` - https://commons.wikimedia.org/wiki/File:Edward_Burne-Jones_-_The_Wheel_of_Fortune_-_Google_Art_Project.jpg
+- `30.jpg` - https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Die_Kirche_von_Auvers.jpeg
+- `31.jpg` - https://commons.wikimedia.org/wiki/File:L'%C3%82ge_M%C3%BBr.jpg
+- `32.jpg` - https://commons.wikimedia.org/wiki/File:Rose_Bushes_Under_the_Trees_(c1905)_by_Gustav_Klimt.jpg
+- `33.jpg` - https://commons.wikimedia.org/wiki/File:Wilhelm_Hammersh%C3%B8i_-_Rest_-_Google_Art_Project.jpg
+- `34.jpg` - https://commons.wikimedia.org/wiki/File:Piet_Mondriaan_-_Haystacks_III_-_RF_MO_P_2018_6_-_Mus%C3%A9e_d'Orsay.jpg
+- `35.jpg` - https://commons.wikimedia.org/wiki/File:Kandinsky,_Wassily_-_Study_for_the_Cover_of_Der_Blaue_Reiter_Almanach,_1911,_GAC.jpg
+- `36.jpg` - https://commons.wikimedia.org/wiki/File:Bottle_Rack_-_Marcel_Duchamp.jpg
+- `37.jpg` - https://commons.wikimedia.org/wiki/File:%D0%A7%D1%91%D1%80%D0%BD%D1%8B%D0%B9_%D0%BA%D1%80%D0%B5%D1%81%D1%82.png
+- `40.jpg` - https://commons.wikimedia.org/wiki/File:Bird_in_Space.jpg
